@@ -1,4 +1,4 @@
-# starter-maven-kotlin
+# starter cpp conan
 
 cpp project starter with conan.
 
